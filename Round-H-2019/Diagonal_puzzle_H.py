@@ -1,3 +1,7 @@
+# This code was done in collaboration between Jorge Antonio and Raul Penaguiao
+# This code pertains a problem set in KickStart Google Competition, see https://codingcompetitions.withgoogle.com/kickstart/archive
+# This code runs in python 3.7.6.
+
 import numpy as np
 
 def symbols_to_F2(input):
